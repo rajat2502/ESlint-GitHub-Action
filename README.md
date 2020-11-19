@@ -1,5 +1,5 @@
 # ESlint-GitHub-Action
-A Simple GitHub Action that runs the linter(ESlint) on a JavaScript project.
+A Simple GitHub Action that runs the linter(ESlint) on a JavaScript project. This runs ESlint on any file with an extension of .js,.jsx,.ts, and .tsx.
 
 ### How to use in my project?
 
@@ -33,6 +33,6 @@ jobs:
           git push
 ```
 - Replace the name and email Address with your own email address.
-- Create a file in the `.github` folder of your project.
+- Create a file in the `.github/workflows` folder of your project.
 - Name the file `lint.yml` or any other name (The extension of the file should be .yml or .yaml).
 - Make any commit to see it in Action!
