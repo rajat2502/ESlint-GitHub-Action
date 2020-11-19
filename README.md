@@ -37,4 +37,6 @@ jobs:
 - Name the file `lint.yml` or any other name (The extension of the file should be .yml or .yaml).
 - Make any commit to see it in Action!
 
-**Note: To run this Action, your project must have at least one file with the listed extenstions.**
+**Note:**
+- To run this Action, your project must have at least one file with the listed extenstions.
+- The project should also have eslint configuration file i.e eslintrc.json (To make one for your project run `npx eslint --init`).
