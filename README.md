@@ -36,3 +36,5 @@ jobs:
 - Create a file in the `.github/workflows` folder of your project.
 - Name the file `lint.yml` or any other name (The extension of the file should be .yml or .yaml).
 - Make any commit to see it in Action!
+
+**Note: To run this Action, your project must have at least one file with the listed extenstions.**
