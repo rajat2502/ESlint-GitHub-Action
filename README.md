@@ -1,7 +1,7 @@
 # ESlint-GitHub-Action
 A Simple GitHub Action that runs the linter(ESlint) on a JavaScript project. This runs ESlint on any file with an extension of .js,.jsx,.ts, and .tsx.
 
-### How to use in my project?
+### How to use this action in my project?
 
 - Copy the below code:
 ```
